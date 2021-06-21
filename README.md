@@ -2,7 +2,7 @@
 * Fahrul Hudha Setiawan 
 * 185411145
 
-## Project UTS
+## Project Akhir
 * Framework Mobile
 
 ## Jobs Finder
